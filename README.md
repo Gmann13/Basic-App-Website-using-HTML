@@ -70,10 +70,4 @@ If you'd like to contribute to the Cat Photo App, follow these steps:
 
 ---
 
-## License
 
-This project is open-source and available under the MIT License. Feel free to modify and share!
-
----
-
-Let me know if you want any additional sections or specific customization!
